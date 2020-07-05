@@ -1,0 +1,3 @@
+http://colah.github.io/posts/2014-10-Visualizing-MNIST/
+
+2. [Additional reading] Intuitive explanation of distance minimization: https://stats.stackexchange.com/a/140579/207753
